@@ -1,0 +1,1 @@
+export { random, randomElement } from './src/random'
