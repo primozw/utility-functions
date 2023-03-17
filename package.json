@@ -4,7 +4,7 @@
   "description": "Utility functions for creative coding, generative art and animations",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --verbose"
   },
   "repository": {
     "type": "git",
